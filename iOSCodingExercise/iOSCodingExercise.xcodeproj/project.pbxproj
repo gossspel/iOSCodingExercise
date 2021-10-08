@@ -14,6 +14,7 @@
 		6B064E6A2710AF8300A90886 /* iOSCodingExerciseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B064E692710AF8300A90886 /* iOSCodingExerciseTests.swift */; };
 		6B064E752710AF8300A90886 /* iOSCodingExerciseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B064E742710AF8300A90886 /* iOSCodingExerciseUITests.swift */; };
 		6B064E832710B56B00A90886 /* GenericsExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B064E822710B56B00A90886 /* GenericsExercise.swift */; };
+		6B064E852710C5B300A90886 /* PanExampleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B064E842710C5B300A90886 /* PanExampleVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6B064E742710AF8300A90886 /* iOSCodingExerciseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSCodingExerciseUITests.swift; sourceTree = "<group>"; };
 		6B064E762710AF8300A90886 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B064E822710B56B00A90886 /* GenericsExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsExercise.swift; sourceTree = "<group>"; };
+		6B064E842710C5B300A90886 /* PanExampleVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanExampleVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6B064E602710AF8300A90886 /* Info.plist */,
 				6B064E5A2710AF8300A90886 /* Preview Content */,
 				6B064E822710B56B00A90886 /* GenericsExercise.swift */,
+				6B064E842710C5B300A90886 /* PanExampleVC.swift */,
 			);
 			path = iOSCodingExercise;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B064E852710C5B300A90886 /* PanExampleVC.swift in Sources */,
 				6B064E532710AF8200A90886 /* AppDelegate.swift in Sources */,
 				6B064E832710B56B00A90886 /* GenericsExercise.swift in Sources */,
 			);
